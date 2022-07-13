@@ -1,0 +1,407 @@
+c:\users\rizwan\documents\visual studio 2012\Projects\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+c:\users\rizwan\documents\visual studio 2012\Projects\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+c:\users\rizwan\documents\visual studio 2012\Projects\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+c:\users\rizwan\documents\visual studio 2012\Projects\Jewellery_System\Jewellery_System\bin\Debug\Mysql.Data.dll
+c:\users\rizwan\documents\visual studio 2012\Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+c:\users\rizwan\documents\visual studio 2012\Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+c:\users\rizwan\documents\visual studio 2012\Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+c:\users\rizwan\documents\visual studio 2012\Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+c:\users\rizwan\documents\visual studio 2012\Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rizwan\Downloads\Jewellery_System - Copy\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rizwan\Downloads\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rizwan\Downloads\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rizwan\Downloads\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rizwan\Downloads\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rizwan\Downloads\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rizwan\Downloads\Jewellery_System - Copy\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rizwan\Downloads\Jewellery_System - Copy\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rizwan\Downloads\Jewellery_System - Copy\Jewellery_System\bin\Debug\Mysql.Data.dll
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy1\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\jenus\Desktop\Sathusan Pro\Jewellery_System - Copy1\Jewellery_System\obj\Debug\Jewellery_System.Jewellery.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System - Copy12\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\jenus\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Desktop\3 Cobined\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\New folder (3)\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Desktop\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\jenus\Desktop\ITEM\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Downloads\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Downloads\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Downloads\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Downloads\Today final\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\jenus\Documents\jenu\BI\correction\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Desktop\correction_anna_change\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\jenus\Desktop\Sathu Send Morning 12.02.20022\correction_me\Final\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+D:\Company Projects\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+D:\Company Projects\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+D:\Company Projects\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\jenus\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Downloads\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery_System\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Desktop\ghg\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Desktop\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.LOAD_CUSTOMER.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.LOAD_ITEM.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.LOAD_CUSTOMER.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.LOAD_ITEM.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\jenus\Desktop\28.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.LOAD_CUSTOMER.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.LOAD_ITEM.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Downloads\New folder\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.LOAD_CUSTOMER.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.LOAD_ITEM.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\jenus\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe.config
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.exe
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\Jewellery_System.pdb
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\mscorlib.dll
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\normidna.nlp
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\normnfc.nlp
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\normnfd.nlp
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\normnfkc.nlp
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\bin\Debug\normnfkd.nlp
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.LOAD_CUSTOMER.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.LOAD_ITEM.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Desktop\31.03.2022\Jewellery\Jewellery_System\obj\Debug\Jewellery_System.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\bin\Release\Jewellery_System.exe.config
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.Boxes.Box.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.BOXITEMS.BoxItems.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.CATEGORY1.Catogery1.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.CATEGORY2.CATEGORY2FORM.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.CUSTOMER.CUSTOMER.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.ITEMFORM.ITEMFORM.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.JEWELLERY.Jewellery.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.Menu.Menu.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.PRICE.Price.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.PURCHASE.List.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.PRE.PURCHASE.PURCHASE.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.Properties.Resources.resources
+C:\Users\jenus\Desktop\24.03.2021\Jewellery\Jewellery_System\obj\Release\Jewellery_System.csproj.GenerateResource.Cache

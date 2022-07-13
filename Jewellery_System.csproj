@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{28C1181E-F969-42E0-AD06-50FA39CD8B2C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jewellery_System</RootNamespace>
+    <AssemblyName>Jewellery_System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mysql.Data">
+      <HintPath>D:\New folder\2021-03-26 all pos system\sysem\S----------T\TRANSPORT NEW\POS_\bin\Release\Mysql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\box.cs" />
+    <Compile Include="BUS\boxitems.cs" />
+    <Compile Include="BUS\category2.cs" />
+    <Compile Include="BUS\catogery1.cs" />
+    <Compile Include="BUS\Config.cs" />
+    <Compile Include="BUS\customer.cs" />
+    <Compile Include="BUS\itemform.cs" />
+    <Compile Include="BUS\jewellery.cs" />
+    <Compile Include="BUS\price.cs" />
+    <Compile Include="BUS\purchase.cs" />
+    <Compile Include="DAT\function_.cs" />
+    <Compile Include="DAT\NewDataAccessLayer.cs" />
+    <Compile Include="PRE\BOXES\Box.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\BOXES\Box.designer.cs">
+      <DependentUpon>Box.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\BOXITEMS\BoxItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\BOXITEMS\BoxItems.Designer.cs">
+      <DependentUpon>BoxItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\CATEGORY1\Catogery1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\CATEGORY1\Catogery1.designer.cs">
+      <DependentUpon>Catogery1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\CATEGORY2\CATEGORY2FORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\CATEGORY2\CATEGORY2FORM.designer.cs">
+      <DependentUpon>CATEGORY2FORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\CUSTOMER\CUSTOMER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\CUSTOMER\CUSTOMER.Designer.cs">
+      <DependentUpon>CUSTOMER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\ITEMFORM\ITEMFORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\ITEMFORM\ITEMFORM.designer.cs">
+      <DependentUpon>ITEMFORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\JEWELLERY\Jewellery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\JEWELLERY\Jewellery.designer.cs">
+      <DependentUpon>Jewellery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\Menu\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\Menu\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PRICE\Price.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PRICE\Price.Designer.cs">
+      <DependentUpon>Price.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\List.designer.cs">
+      <DependentUpon>List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\LOAD_CUSTOMER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\LOAD_CUSTOMER.Designer.cs">
+      <DependentUpon>LOAD_CUSTOMER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\LOAD_ITEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\LOAD_ITEM.Designer.cs">
+      <DependentUpon>LOAD_ITEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\PURCHASE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\PURCHASE.Designer.cs">
+      <DependentUpon>PURCHASE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PRE\BOXES\Box.resx">
+      <DependentUpon>Box.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\BOXITEMS\BoxItems.resx">
+      <DependentUpon>BoxItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\CATEGORY1\Catogery1.resx">
+      <DependentUpon>Catogery1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\CATEGORY2\CATEGORY2FORM.resx">
+      <DependentUpon>CATEGORY2FORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\CUSTOMER\CUSTOMER.resx">
+      <DependentUpon>CUSTOMER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\ITEMFORM\ITEMFORM.resx">
+      <DependentUpon>ITEMFORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\JEWELLERY\Jewellery.resx">
+      <DependentUpon>Jewellery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\Menu\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PRICE\Price.resx">
+      <DependentUpon>Price.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PURCHASE\List.resx">
+      <DependentUpon>List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PURCHASE\LOAD_CUSTOMER.resx">
+      <DependentUpon>LOAD_CUSTOMER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PURCHASE\LOAD_ITEM.resx">
+      <DependentUpon>LOAD_ITEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PURCHASE\PURCHASE.resx">
+      <DependentUpon>PURCHASE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

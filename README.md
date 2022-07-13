@@ -6,4 +6,4 @@
 [Screenshot-2022-07-12-230337.png](https://postimg.cc/w3VnTtfb)
 [![Screenshot-2022-07-12-230404.png](https://i.postimg.cc/RCn9wXJX/Screenshot-2022-07-12-230404.png)](https://postimg.cc/vDMps7zV)
 [![Screenshot-2022-07-12-230429.png](https://i.postimg.cc/JnSL9BvN/Screenshot-2022-07-12-230429.png)](https://postimg.cc/G8PVD9ct)
-[Screenshot-2022-07-12-230429.png](https://postimg.cc/G8PVD9ct)
+[![Screenshot-2022-07-12-230429.png](https://i.postimg.cc/JnSL9BvN/Screenshot-2022-07-12-230429.png)](https://postimg.cc/G8PVD9ct)

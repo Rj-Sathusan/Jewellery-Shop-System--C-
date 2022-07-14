@@ -1,4 +1,4 @@
-# Jewellery-Shop-System--C sharp
+# Jewellery Shop System-C sharp
 - This system is done using the **C# and MySQL**(store procture) is used as the database.
 - It is a system developed to record the accounts and item details of a **jeweller shop**
 - :point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	

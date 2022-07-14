@@ -1,6 +1,6 @@
 # Jewellery Shop System -C sharp :wave:	
 - This system is done using the **C# and MySQL**(store procture) is used as the database.
-- It is a system developed to record the accounts and item details of a **jeweller shop**
+- It is a system developed to record the accounts and item details of a **Jeweller shop**
 - :point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	
 [![Screenshot-2022-07-12-230522.png](https://i.postimg.cc/bwqhcPCB/Screenshot-2022-07-12-230522.png)](https://postimg.cc/tYvfWKH3)
 [![Screenshot-2022-07-12-230308.png](https://i.postimg.cc/Fzc4mHX2/Screenshot-2022-07-12-230308.png)](https://postimg.cc/H8pK9Hx2)
